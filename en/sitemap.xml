@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://ZhengZixiang.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ZhengZixiang.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ZhengZixiang.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://ZhengZixiang.github.io/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://ZhengZixiang.github.io/zh/" hreflang="zh"/>
+    
+      <loc>https://ZhengZixiang.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://ZhengZixiang.github.io/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://ZhengZixiang.github.io/zh/categories/" hreflang="zh"/>
+    
+      <loc>https://ZhengZixiang.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://ZhengZixiang.github.io/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://ZhengZixiang.github.io/zh/publication_types/" hreflang="zh"/>
+    
+      <loc>https://ZhengZixiang.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://ZhengZixiang.github.io/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://ZhengZixiang.github.io/zh/tags/" hreflang="zh"/>
+    
+      <loc>https://ZhengZixiang.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
